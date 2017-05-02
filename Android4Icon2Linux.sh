@@ -161,7 +161,9 @@ converticon camera accessories-camera apps
 converticon native_clipboard accessories-clipboard apps
 converticon clock accessories-clock apps
 converticon dictionary accessories-dictionary apps
-converticon adobe_flash adobe-flash apps
+converticon contacts addressbook apps
+converticon adobeair adobeAIR apps
+converticon adobeair adobe-air apps
 converticon adobereader AdobeReader apps
 converticon adobereader adobe-reader apps
 converticon adobereader AdobeReader8 apps
@@ -169,9 +171,12 @@ converticon adobereader AdobeReader9 apps
 converticon adobereader AdobeReader10 apps
 converticon adobereader AdobeReader11 apps
 converticon adobereader AdobeReader12 apps
-converticon clock clock apps
+converticon adobereader acroread apps
 converticon rssfeedreader akregator apps
 converticon clock alarm-clock apps
+converticon android android apps
+converticon music application-x-clementine apps
+converticon vnc application-x-vnc apps
 converticon voicerecorder audio-recorder apps
 converticon authy authy apps
 converticon rssfeedreader blam apps
@@ -278,6 +283,7 @@ converticon ic_calendar_28 calendar-red-28 apps
 converticon ic_calendar_29 calendar-red-29 apps
 converticon ic_calendar_30 calendar-red-30 apps
 converticon ic_calendar_31 calendar-red-31 apps
+converticon clock clock apps
 converticon chrome chrome apps
 converticon spotify chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default apps
 converticon authy chrome-gaedmjdfmmahhbjefcbgaolhhanlaolb-Default apps
