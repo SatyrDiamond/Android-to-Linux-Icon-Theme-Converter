@@ -149,6 +149,13 @@ converticon whatsapp whatsappfordesktop web
 converticon whatsapp whatsie web
 converticon youtube YouTube-youtube.com web
 
+converticon excel 0_excelonline apps
+converticon onedrive 0_onedrive apps
+converticon onenote 0_onenoteonline apps
+converticon outlook 0_outlook apps
+converticon powerpoint 0_powerpointonline apps
+converticon word 0_wordonline apps
+converticon help 4137_winhlp32.0 apps
 converticon calculator accessories-calculator apps
 converticon camera accessories-camera apps
 converticon native_clipboard accessories-clipboard apps
